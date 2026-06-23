@@ -20,7 +20,7 @@ export default function NavBar({ user }: NavBarProps) {
   return (
     <nav className="bg-gray-900 border-b border-gray-800 sticky top-0 z-40">
       <div className="container mx-auto px-4 max-w-7xl flex items-center h-14 gap-6">
-        <span className="text-white font-bold text-lg tracking-tight select-none">🗄️ NAS</span>
+        <span className="text-white font-bold text-lg tracking-tight select-none">🗄️ NAS By WATSON TECH</span>
 
         <div className="flex items-center gap-1 flex-1">
           {links.map((link) => (

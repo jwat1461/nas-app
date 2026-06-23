@@ -3,8 +3,8 @@ import './globals.css';
 import SessionProvider from '@/components/SessionProvider';
 
 export const metadata: Metadata = {
-  title: 'NAS Storage',
-  description: 'Personal network-attached storage with calendar',
+  title: 'NAS By WATSON TECH',
+  description: 'NAS By WATSON TECH — personal network-attached storage with calendar',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
