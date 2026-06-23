@@ -51,7 +51,7 @@ export default function CalendarPage() {
     <div>
       <div className="flex items-center justify-between mb-6">
         <div>
-          <h1 className="text-2xl font-bold text-white">Calendar</h1>
+          <h1 className="text-2xl font-bold text-white">Calendar By WATSON TECH </h1>
           <p className="text-gray-400 text-sm mt-0.5">Click a date to add an event, click an event to edit it</p>
         </div>
         <button
